@@ -18,7 +18,7 @@ const searchInp = document.querySelector("#search");
 const paginationList = document.querySelector(".pagination-list");
 const prev = document.querySelector(".prev");
 const next = document.querySelector(".next");
-
+const ohayou = 0;
 //? инпуты и кнопка из модалки
 const editTitleInp = document.querySelector("#edit-title");
 const editPriceInp = document.querySelector("#edit-price");
