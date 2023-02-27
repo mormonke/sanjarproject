@@ -247,3 +247,5 @@ prev.addEventListener("click", () => {
   currentPage--;
   getProducts();
 });
+
+console.log("git checkhout(-b)");
