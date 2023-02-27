@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "title": "Asus ZenBook Flip S",
+      "image": "https://avatars.mds.yandex.net/i?id=855dbc81cfb2ba91e393a6ef4da268328a4c3a83-5337839-images-thumbs&n=13",
+      "price": 1399,
+      "description": "The distinctive ZenBook Flip S13 combines elegant sophistication with an all-new design that makes it more desirable than ever. Its sleek slim-bezel NanoEdge touchscreen and 360° ErgoLift hinge make ZenBook Flip S13 ultra-compact and ultra-versatile, and the 11th Generation Intel® Core™ processor and Intel® Iris® Xe graphics deliver effortless performance for on-the-go productivity and creativity. ZenBook Flip S13 brings you flexibility and performance — with a touch of luxury."
+    },
+    {
+      "id": 5,
+      "title": "Samsung Notebook 9",
+      "image": "https://avatars.mds.yandex.net/i?id=fa3eb208d29d6301c23d2a02d36d29e3bbac24dc-6556603-images-thumbs&n=13",
+      "price": 1499,
+      "description": "While it may not have the best keyboard in the world, the Samsung Notebook 9 is still one of the best laptops you can buy in 2018. Packed with more horsepower than some MacBook Pros,but at a much lower price, Samsung has crafted a laptop that has just as much substance as it does style. Plus, on top of its killer specs, it’s lightweight and thin, making this one of the most portable 15-inch laptops you can buy today."
+    }
+  ]
+}
